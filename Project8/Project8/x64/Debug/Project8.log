@@ -1,0 +1,15 @@
+﻿  Ceaser.cpp
+C:\Users\User.DESKTOP-OALRU3A\source\repos\Project8\Project8\Ceaser.cpp(5,6): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+  ficha.cpp
+C:\Users\User.DESKTOP-OALRU3A\source\repos\Project8\Project8\ficha.cpp(5,6): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+C:\Users\User.DESKTOP-OALRU3A\source\repos\Project8\Project8\ficha.cpp(8,17): error C2086: 'int word[1]': redefinição
+      C:\Users\User.DESKTOP-OALRU3A\source\repos\Project8\Project8\ficha.cpp(8,8):
+      consulte a declaração de 'word'
+  
+  anagram.cpp
+C:\Users\User.DESKTOP-OALRU3A\source\repos\Project8\Project8\anagram.cpp(5,6): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+C:\Users\User.DESKTOP-OALRU3A\source\repos\Project8\Project8\anagram.cpp(7,9): warning C4101: 'Keyword1': variável local não referenciada
+  programspecial.cpp
+C:\Users\User.DESKTOP-OALRU3A\source\repos\Project8\Project8\programspecial.cpp(5,6): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+  Gerando Código...
+C:\Users\User.DESKTOP-OALRU3A\source\repos\Project8\Project8\programspecial.cpp(21,1): error C4700: variável local não inicializada 'count' usada
