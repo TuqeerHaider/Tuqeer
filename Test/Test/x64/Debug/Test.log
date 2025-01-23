@@ -1,0 +1,5 @@
+﻿  test.cpp
+C:\Users\User.DESKTOP-OALRU3A\source\repos\Test\Test\test.cpp(6,6): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+C:\Users\User.DESKTOP-OALRU3A\source\repos\Test\Test\test.cpp(8,20): error C2065: 'O': identificador não declarado
+C:\Users\User.DESKTOP-OALRU3A\source\repos\Test\Test\test.cpp(8,21): error C2059: erro de sintaxe: 'user-defined literal'
+C:\Users\User.DESKTOP-OALRU3A\source\repos\Test\Test\test.cpp(8,53): error C2001: newline em constante
