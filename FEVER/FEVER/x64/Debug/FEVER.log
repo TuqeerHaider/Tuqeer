@@ -1,0 +1,3 @@
+﻿  fever.cpp
+C:\Users\User.DESKTOP-OALRU3A\source\repos\FEVER\FEVER\fever.cpp(4,6): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+  FEVER.vcxproj -> C:\Users\User.DESKTOP-OALRU3A\source\repos\FEVER\x64\Debug\FEVER.exe
